@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mak-dev/mak-dev/main/assets/profile-banner.svg" alt="banner" />
+  <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="banner" />
 </p>
 
 <h1 align="center">
@@ -56,7 +56,6 @@ Transforming businesses through innovative development & generative AI solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="80" alt="Azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/convex/convex-original.svg" width="80" alt="Convex" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="80" alt="Firebase" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" width="80" alt="Vercel" />
   
@@ -68,7 +67,6 @@ Transforming businesses through innovative development & generative AI solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="80" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="80" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vector/vector-original.svg" width="80" alt="VectorDB" />
 </p>
 
 ### Automation & CMS
@@ -89,7 +87,6 @@ Transforming businesses through innovative development & generative AI solutions
   <a href="https://github.com/muhammad-atif536"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/muhammad-atif-keerio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
   <a href="mailto:jatif443@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" width="40" alt="Email" /></a>
-  <a href="https://www.mak-dev.vercel.app"><h1 width="40" alt="Portfolio">MAK</h1></a>
 </p>
 
 ---
